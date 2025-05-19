@@ -19,10 +19,12 @@ https://drive.google.com/file/d/1FXGbamnSGZ7wEGvgSGBmtp-FCEh2laPN/view?usp=shari
 #To predict:
 
 Use the asl_test.py notebook to test the model on test images.
-Make sure to update the folder path and maintain the folder structure.
+Ensure folder path and folder structure.
 Replace or add new images in the test directory to evaluate more inputs.
 
 #Training:
 
-Model training was done over ~90K images and 30 epochs with validation split on a T4 in 2 hours.
-EfficientNetB3 was fine tuned after freezing the first 200 layers for better results and speedy training.
+1. Trained over ~90K images and 30 epochs with validation split.
+2. Used a T4 on colab.
+3. Training Time: 2 hours.
+4. First 200 layers were frozen for faster convergence and improved generalization.
