@@ -1,7 +1,7 @@
 # asl
 American Sign Language recognition model 
 
-A deep learning project where I trained a model over 80000 labeled images that classifies ASL letters, numbers, and control signs using EfficientNetB3 with a 99 percent test sccuracy.
+A deep learning project where I trained a model over 80000 labeled images that classifies ASL letters, numbers, and control signs using EfficientNetB3 with a 99 percent test accuracy.
 
 #Overview:
 
