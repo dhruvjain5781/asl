@@ -9,7 +9,7 @@ The project uses CNN with a pretrained EfficientNetB3 to classify the ASL hand g
 2. Numbers 0-9
 3. Special signs: 'space', 'delete', 'nothing'
 
-The model was trained over the dataset: 'https://drive.google.com/file/d/1nQOzAf7ie77g3dZ5zOy9-R0C1hCYLx-l/view?usp=sharing'
+The model was trained over the dataset: https://drive.google.com/file/d/1nQOzAf7ie77g3dZ5zOy9-R0C1hCYLx-l/view?usp=sharing
 
 #Trained Model:
 https://drive.google.com/file/d/1FXGbamnSGZ7wEGvgSGBmtp-FCEh2laPN/view?usp=sharing
